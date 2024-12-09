@@ -1,2 +1,0 @@
-*.pcap filter=lfs diff=lfs merge=lfs -text
-out.json filter=lfs diff=lfs merge=lfs -text
