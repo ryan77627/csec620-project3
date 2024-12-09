@@ -16,4 +16,3 @@
 *.cfg filter=lfs diff=lfs merge=lfs -text
 *.xsl filter=lfs diff=lfs merge=lfs -text
 *.pcap filter=lfs diff=lfs merge=lfs -text
-*.json filter=lfs diff=lfs merge=lfs -text
