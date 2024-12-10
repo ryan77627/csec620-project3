@@ -1,0 +1,14 @@
+ldap3
+json
+ftplib
+os
+random
+time
+datetime
+paramiko
+dnspython
+scikit-learn
+pandas
+matplotlib
+seaborn
+tensorflow
